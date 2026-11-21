@@ -2,7 +2,7 @@
 
 Mokje Gokje is een Nederlandstalig muziektijdlijnspel voor twee tot acht teams. Open het hostscherm op de laptop en laat ieder team met één telefoon de deelname-QR scannen. De QR blijft in beeld op het hostscherm en werkt ook om opnieuw aan te sluiten. Op een andere telefoon gebruik je de teamcode van acht tekens. De host vindt die codes in **Spelbeheer**.
 
-[Speel Mokje Gokje op GitHub Pages](https://jappelflappel.github.io/terugspoel/)
+[Speel Mokje Gokje](https://jappelflappel.github.io/mokje-gokje/) · [Bekijk de actuele broncode](https://github.com/jappelflappel/mokje-gokje)
 
 ## Spotify
 
